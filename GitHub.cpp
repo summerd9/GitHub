@@ -2,7 +2,12 @@
 
 using namespace std;
 
+void hello()
+{
+	cout << "Hello World!\n";
+}
+
 int main()
 {
-	cout << "Hello world";
+	hello();
 }
