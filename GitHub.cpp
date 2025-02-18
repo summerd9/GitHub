@@ -6,6 +6,10 @@ void hello()
 {
 	cout << "Hello World!\n";
 }
+int addThree(int a, int b, int c)
+{
+	return a + b + c;
+}
 
 int main()
 {
