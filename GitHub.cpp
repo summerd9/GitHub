@@ -14,4 +14,5 @@ int addThree(int a, int b, int c)
 int main()
 {
 	hello();
+	cout<<addThree(1,2,3);
 }
